@@ -1,0 +1,164 @@
+{
+    "letters": [
+        {
+            "key": "a"
+        },
+        {
+            "key": "b"
+        },
+        {
+            "key": "c"
+        },
+        {
+            "key": "d"
+        },
+        {
+            "key": "e"
+        },
+        {
+            "key": "f"
+        },
+        {
+            "key": "g"
+        },
+        {
+            "key": "h"
+        },
+        {
+            "key": "i"
+        },
+        {
+            "key": "j"
+        },
+        {
+            "key": "k"
+        },
+        {
+            "key": "l"
+        },
+        {
+            "key": "m"
+        },
+        {
+            "key": "n"
+        },
+        {
+            "key": "o"
+        },
+        {
+            "key": "p"
+        },
+        {
+            "key": "q"
+        },
+        {
+            "key": "r"
+        },
+        {
+            "key": "s"
+        },
+        {
+            "key": "t"
+        },
+        {
+            "key": "u"
+        },
+        {
+            "key": "v"
+        },
+        {
+            "key": "w"
+        },
+        {
+            "key": "x"
+        },
+        {
+            "key": "y"
+        },
+        {
+            "key": "z"
+        }
+    ],
+    "solutions": [
+        {
+            "word": "above",
+            "id": 1
+        },
+        {
+            "id": 2,
+            "word": "about"
+        },
+        {
+            "id": 3,
+            "word": "pools"
+        },
+        {
+            "id": 4,
+            "word": "drive"
+        },
+        {
+            "id": 5,
+            "word": "relax"
+        },
+        {
+            "id": 6,
+            "word": "times"
+        },
+        {
+            "id": 7,
+            "word": "train"
+        },
+        {
+            "id": 8,
+            "word": "cores"
+        },
+        {
+            "id": 9,
+            "word": "adopt"
+        },
+        {
+            "id": 10,
+            "word": "blame"
+        },
+        {
+            "id": 11,
+            "word": "banks"
+        },
+        {
+            "id": 12,
+            "word": "phone"
+        },
+        {
+            "id": 13,
+            "word": "bling"
+        },
+        {
+            "id": 14,
+            "word": "coins"
+        },
+        {
+            "id": 15,
+            "word": "hello"
+        },
+        {
+            "id": 16,
+            "word": "admit"
+        },
+        {
+            "id": 17,
+            "word": "drink"
+        },
+        {
+            "id": 18,
+            "word": "empty"
+        },
+        {
+            "id": 19,
+            "word": "frame"
+        },
+        {
+            "id": 20,
+            "word": "green"
+        }
+    ]
+}
